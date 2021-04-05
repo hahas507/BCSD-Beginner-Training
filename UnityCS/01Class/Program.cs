@@ -26,3 +26,8 @@ internal class Monster
 {
     //클래스 예시
 }
+
+internal class HP
+{
+    //클래스 예시
+}
