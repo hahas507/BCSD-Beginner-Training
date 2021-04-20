@@ -1,0 +1,7 @@
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\03CodeStartAndReading\bin\Debug\03CodeStartAndReading.exe.config
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\03CodeStartAndReading\bin\Debug\03CodeStartAndReading.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\03CodeStartAndReading\bin\Debug\03CodeStartAndReading.pdb
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\03CodeStartAndReading\obj\Debug\03CodeStartAndReading.csprojAssemblyReference.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\03CodeStartAndReading\obj\Debug\03CodeStartAndReading.csproj.CoreCompileInputs.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\03CodeStartAndReading\obj\Debug\03CodeStartAndReading.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\03CodeStartAndReading\obj\Debug\03CodeStartAndReading.pdb
