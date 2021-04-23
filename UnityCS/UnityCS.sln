@@ -38,6 +38,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10Memory00(Func)", "10Memor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11Memory00(Value)", "11Memory00(Value)\11Memory00(Value).csproj", "{5C5D39FD-90ED-472B-8651-D14D6A5AC17E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12Memory02(Reference)", "12Memory02(Reference)\12Memory02(Reference).csproj", "{8A6D1706-3973-4C80-B789-36386B4551E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13StaticVar", "13StaticVar\13StaticVar.csproj", "{CD8D5E45-4C64-445A-848A-43B493785ED5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -100,6 +104,14 @@ Global
 		{5C5D39FD-90ED-472B-8651-D14D6A5AC17E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C5D39FD-90ED-472B-8651-D14D6A5AC17E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C5D39FD-90ED-472B-8651-D14D6A5AC17E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A6D1706-3973-4C80-B789-36386B4551E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A6D1706-3973-4C80-B789-36386B4551E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A6D1706-3973-4C80-B789-36386B4551E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A6D1706-3973-4C80-B789-36386B4551E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD8D5E45-4C64-445A-848A-43B493785ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8D5E45-4C64-445A-848A-43B493785ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8D5E45-4C64-445A-848A-43B493785ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8D5E45-4C64-445A-848A-43B493785ED5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
