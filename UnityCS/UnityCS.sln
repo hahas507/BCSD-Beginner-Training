@@ -42,6 +42,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12Memory02(Reference)", "12
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13StaticVar", "13StaticVar\13StaticVar.csproj", "{CD8D5E45-4C64-445A-848A-43B493785ED5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14StaticFunc", "14StaticFunc\14StaticFunc.csproj", "{C90E4A13-D753-4716-8EE5-753DB0D679BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15StaticClass", "15StaticClass\15StaticClass.csproj", "{3CB30643-1DCD-4969-AD6D-C6DE7BABEED1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -112,6 +116,14 @@ Global
 		{CD8D5E45-4C64-445A-848A-43B493785ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD8D5E45-4C64-445A-848A-43B493785ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD8D5E45-4C64-445A-848A-43B493785ED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C90E4A13-D753-4716-8EE5-753DB0D679BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C90E4A13-D753-4716-8EE5-753DB0D679BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C90E4A13-D753-4716-8EE5-753DB0D679BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C90E4A13-D753-4716-8EE5-753DB0D679BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB30643-1DCD-4969-AD6D-C6DE7BABEED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB30643-1DCD-4969-AD6D-C6DE7BABEED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB30643-1DCD-4969-AD6D-C6DE7BABEED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB30643-1DCD-4969-AD6D-C6DE7BABEED1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
