@@ -1,0 +1,7 @@
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\21Struct\bin\Debug\21Struct.exe.config
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\21Struct\bin\Debug\21Struct.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\21Struct\bin\Debug\21Struct.pdb
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\21Struct\obj\Debug\21Struct.csprojAssemblyReference.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\21Struct\obj\Debug\21Struct.csproj.CoreCompileInputs.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\21Struct\obj\Debug\21Struct.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\21Struct\obj\Debug\21Struct.pdb

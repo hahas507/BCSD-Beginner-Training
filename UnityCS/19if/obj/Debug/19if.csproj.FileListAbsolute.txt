@@ -1,0 +1,7 @@
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\19if\bin\Debug\19if.exe.config
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\19if\bin\Debug\19if.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\19if\bin\Debug\19if.pdb
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\19if\obj\Debug\19if.csprojAssemblyReference.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\19if\obj\Debug\19if.csproj.CoreCompileInputs.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\19if\obj\Debug\19if.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\19if\obj\Debug\19if.pdb

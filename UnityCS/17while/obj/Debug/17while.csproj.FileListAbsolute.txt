@@ -1,0 +1,7 @@
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\17while\bin\Debug\17while.exe.config
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\17while\bin\Debug\17while.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\17while\bin\Debug\17while.pdb
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\17while\obj\Debug\17while.csprojAssemblyReference.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\17while\obj\Debug\17while.csproj.CoreCompileInputs.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\17while\obj\Debug\17while.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\17while\obj\Debug\17while.pdb

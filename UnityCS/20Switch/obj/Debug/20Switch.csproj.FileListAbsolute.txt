@@ -1,0 +1,6 @@
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\20Switch\bin\Debug\20Switch.exe.config
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\20Switch\bin\Debug\20Switch.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\20Switch\bin\Debug\20Switch.pdb
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\20Switch\obj\Debug\20Switch.csproj.CoreCompileInputs.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\20Switch\obj\Debug\20Switch.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\20Switch\obj\Debug\20Switch.pdb
