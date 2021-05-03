@@ -102,13 +102,8 @@ namespace TextRPG001
                 switch (Console.ReadKey().Key)
                 {
                     case ConsoleKey.D1:
-                        if (true)
-                        {
-                            _Player.CheckMaxHP();
-
-                            Console.ReadKey();
-                        }
-
+                        _Player.CheckMaxHP();
+                        Console.ReadKey();
                         break;
 
                     case ConsoleKey.D2:
