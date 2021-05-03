@@ -1,0 +1,7 @@
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\24ClassConstructer\bin\Debug\24ClassConstructer.exe.config
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\24ClassConstructer\bin\Debug\24ClassConstructer.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\24ClassConstructer\bin\Debug\24ClassConstructer.pdb
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\24ClassConstructer\obj\Debug\24ClassConstructer.csprojAssemblyReference.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\24ClassConstructer\obj\Debug\24ClassConstructer.csproj.CoreCompileInputs.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\24ClassConstructer\obj\Debug\24ClassConstructer.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\24ClassConstructer\obj\Debug\24ClassConstructer.pdb
