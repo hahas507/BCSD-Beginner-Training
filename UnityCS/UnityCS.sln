@@ -60,6 +60,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21Struct", "21Struct\21Stru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22Enum", "22Enum\22Enum.csproj", "{CEE55D43-B702-4C7B-8AC1-CBF508466B10}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Game", "Game", "{0631C3C6-3497-4279-B407-4582ECD367D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextRPG001", "TextRPG001\TextRPG001.csproj", "{469E7979-F4FC-484B-B7E5-6AF5207A921D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -166,6 +170,10 @@ Global
 		{CEE55D43-B702-4C7B-8AC1-CBF508466B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEE55D43-B702-4C7B-8AC1-CBF508466B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEE55D43-B702-4C7B-8AC1-CBF508466B10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{469E7979-F4FC-484B-B7E5-6AF5207A921D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{469E7979-F4FC-484B-B7E5-6AF5207A921D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{469E7979-F4FC-484B-B7E5-6AF5207A921D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{469E7979-F4FC-484B-B7E5-6AF5207A921D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -173,6 +181,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{FCF637AF-51BA-4F38-8CD0-7D93112B5983} = {A905CF95-6E5E-429D-8367-BA9548D3A9C7}
 		{319CE37C-CB34-42E1-802C-4DFA68589F1B} = {A905CF95-6E5E-429D-8367-BA9548D3A9C7}
+		{469E7979-F4FC-484B-B7E5-6AF5207A921D} = {0631C3C6-3497-4279-B407-4582ECD367D2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D6555779-E166-4CBA-833D-DC0096E0ECBA}
