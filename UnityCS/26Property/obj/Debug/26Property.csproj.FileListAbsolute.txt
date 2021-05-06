@@ -1,0 +1,6 @@
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\26Property\bin\Debug\26Property.exe.config
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\26Property\bin\Debug\26Property.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\26Property\bin\Debug\26Property.pdb
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\26Property\obj\Debug\26Property.csproj.CoreCompileInputs.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\26Property\obj\Debug\26Property.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\26Property\obj\Debug\26Property.pdb

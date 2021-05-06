@@ -1,0 +1,6 @@
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\18for\bin\Debug\18for.exe.config
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\18for\bin\Debug\18for.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\18for\bin\Debug\18for.pdb
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\18for\obj\Debug\18for.csproj.CoreCompileInputs.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\18for\obj\Debug\18for.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\18for\obj\Debug\18for.pdb

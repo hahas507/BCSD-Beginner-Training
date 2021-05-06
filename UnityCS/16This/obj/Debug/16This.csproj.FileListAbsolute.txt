@@ -1,0 +1,7 @@
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\16This\bin\Debug\16This.exe.config
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\16This\bin\Debug\16This.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\16This\bin\Debug\16This.pdb
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\16This\obj\Debug\16This.csprojAssemblyReference.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\16This\obj\Debug\16This.csproj.CoreCompileInputs.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\16This\obj\Debug\16This.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\16This\obj\Debug\16This.pdb

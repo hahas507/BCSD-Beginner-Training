@@ -1,0 +1,6 @@
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\11Memory00(Value)\bin\Debug\11Memory00(Value).exe.config
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\11Memory00(Value)\bin\Debug\11Memory00(Value).exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\11Memory00(Value)\bin\Debug\11Memory00(Value).pdb
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\11Memory00(Value)\obj\Debug\11Memory00(Value).csproj.CoreCompileInputs.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\11Memory00(Value)\obj\Debug\11Memory00(Value).exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\11Memory00(Value)\obj\Debug\11Memory00(Value).pdb

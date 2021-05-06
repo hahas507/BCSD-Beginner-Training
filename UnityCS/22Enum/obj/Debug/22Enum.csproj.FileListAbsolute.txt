@@ -1,0 +1,7 @@
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\22Enum\bin\Debug\22Enum.exe.config
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\22Enum\bin\Debug\22Enum.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\22Enum\bin\Debug\22Enum.pdb
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\22Enum\obj\Debug\22Enum.csprojAssemblyReference.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\22Enum\obj\Debug\22Enum.csproj.CoreCompileInputs.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\22Enum\obj\Debug\22Enum.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\22Enum\obj\Debug\22Enum.pdb

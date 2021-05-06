@@ -1,0 +1,6 @@
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\15StaticClass\bin\Debug\15StaticClass.exe.config
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\15StaticClass\bin\Debug\15StaticClass.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\15StaticClass\bin\Debug\15StaticClass.pdb
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\15StaticClass\obj\Debug\15StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\15StaticClass\obj\Debug\15StaticClass.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\15StaticClass\obj\Debug\15StaticClass.pdb

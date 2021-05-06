@@ -1,0 +1,7 @@
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\ClassAccess\bin\Debug\ClassAccess.exe.config
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\ClassAccess\bin\Debug\ClassAccess.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\ClassAccess\bin\Debug\ClassAccess.pdb
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\ClassAccess\obj\Debug\07ClassAccess.csprojAssemblyReference.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\ClassAccess\obj\Debug\07ClassAccess.csproj.CoreCompileInputs.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\ClassAccess\obj\Debug\ClassAccess.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\ClassAccess\obj\Debug\ClassAccess.pdb

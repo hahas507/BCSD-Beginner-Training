@@ -1,0 +1,2 @@
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\01Class\obj\Debug\01Class.csprojAssemblyReference.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\01Class\obj\Debug\01Class.csproj.CoreCompileInputs.cache
