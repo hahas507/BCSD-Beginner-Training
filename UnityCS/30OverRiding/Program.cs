@@ -46,6 +46,7 @@ namespace _30OverRiding
             Monster NewMonster = new Monster("Orc");
 
             NewPlayer.Damage(NewMonster);
+            NewMonster.Damage(NewPlayer);
         }
     }
 }
