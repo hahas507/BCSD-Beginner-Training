@@ -1,0 +1,7 @@
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\32Array\bin\Debug\32Array.exe.config
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\32Array\bin\Debug\32Array.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\32Array\bin\Debug\32Array.pdb
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\32Array\obj\Debug\32Array.csprojAssemblyReference.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\32Array\obj\Debug\32Array.csproj.CoreCompileInputs.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\32Array\obj\Debug\32Array.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\32Array\obj\Debug\32Array.pdb
