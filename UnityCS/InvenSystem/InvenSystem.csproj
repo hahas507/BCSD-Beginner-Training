@@ -45,7 +45,6 @@
   <ItemGroup>
     <Compile Include="Inven.cs" />
     <Compile Include="Item.cs" />
-    <Compile Include="Keyboard.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

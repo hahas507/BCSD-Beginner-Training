@@ -56,22 +56,6 @@ internal class Inven
         ArrItem[_order] = _item;
     }
 
-    //public int getInput
-    //{
-    //    get
-    //    {
-    //        return SelectIndex;
-    //    }
-    //    set
-    //    {
-    //        SelectIndex = value;
-    //    }
-    //}
-
-    //public void Input()
-    //{
-    //}
-
     public void MovementLoop()
     {
         if (SelectIndex < 0)
@@ -84,7 +68,7 @@ internal class Inven
         }
     }
 
-    public void MoveSelect(char _input)
+    public void MoveSelect(char direction)
     {
         if (Input == (char)ConsoleKey.UpArrow)
         {
@@ -137,11 +121,6 @@ internal class Inven
                 return;
         }
     }
-
-    //public void SetItemSelect(int value)
-    //{
-    //    SelectIndex = value;
-    //}
 
     public void Render()
     {

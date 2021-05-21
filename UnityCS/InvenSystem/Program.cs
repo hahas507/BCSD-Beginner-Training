@@ -8,7 +8,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Inven NewInven = new Inven(3, 3);
+        Inven NewInven = new Inven(7, 7);
         //Keyboard NewKeyboard = new Keyboard();
 
         NewInven.ItemIn(new Item("철검", 100));
