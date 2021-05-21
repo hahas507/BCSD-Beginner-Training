@@ -34,4 +34,10 @@ internal class Item
             mGold = value;
         }
     }
+
+    public Item(string _name, int _gold)
+    {
+        Name = _name;
+        Gold = _gold;
+    }
 }

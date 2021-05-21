@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3F33208D-8A22-4B5D-8946-8FD372FEEE53}</ProjectGuid>
+    <ProjectGuid>{B62F655D-A1AA-4862-8B5A-98C6CAD3D4A7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>InvenSystem</RootNamespace>
-    <AssemblyName>InvenSystem</AssemblyName>
+    <RootNamespace>_33Null</RootNamespace>
+    <AssemblyName>33Null</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Inven.cs" />
-    <Compile Include="Item.cs" />
-    <Compile Include="Keyboard.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

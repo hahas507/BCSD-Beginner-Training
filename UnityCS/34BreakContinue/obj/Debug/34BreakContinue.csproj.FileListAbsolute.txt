@@ -1,0 +1,7 @@
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\34BreakContinue\bin\Debug\34BreakContinue.exe.config
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\34BreakContinue\bin\Debug\34BreakContinue.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\34BreakContinue\bin\Debug\34BreakContinue.pdb
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\34BreakContinue\obj\Debug\34BreakContinue.csprojAssemblyReference.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\34BreakContinue\obj\Debug\34BreakContinue.csproj.CoreCompileInputs.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\34BreakContinue\obj\Debug\34BreakContinue.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\34BreakContinue\obj\Debug\34BreakContinue.pdb
