@@ -9,7 +9,6 @@ internal class Program
     private static void Main(string[] args)
     {
         Inven NewInven = new Inven(7, 7);
-        //Keyboard NewKeyboard = new Keyboard();
 
         NewInven.ItemIn(new Item("철검", 100));
         NewInven.ItemIn(new Item("갑옷", 1000));
@@ -19,8 +18,6 @@ internal class Program
         {
             Console.Clear();
             NewInven.Render();
-            //NewKeyboard.KeyInput();
-            //Console.ReadKey();
             NewInven.KeyInput();
         }
     }

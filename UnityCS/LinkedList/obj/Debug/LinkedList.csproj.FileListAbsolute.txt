@@ -1,0 +1,7 @@
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\LinkedList\obj\Debug\LinkedList.csprojAssemblyReference.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\LinkedList\obj\Debug\LinkedList.pdb

@@ -1,0 +1,7 @@
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\Tetris\bin\Debug\Tetris.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\Tetris\bin\Debug\Tetris.pdb
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\Tetris\obj\Debug\Tetris.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\Tetris\obj\Debug\Tetris.pdb

@@ -1,0 +1,7 @@
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\Node\bin\Debug\Node.exe.config
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\Node\bin\Debug\Node.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\Node\bin\Debug\Node.pdb
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\Node\obj\Debug\Node.csprojAssemblyReference.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\Node\obj\Debug\Node.csproj.CoreCompileInputs.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\Node\obj\Debug\Node.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\Node\obj\Debug\Node.pdb

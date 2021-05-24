@@ -59,6 +59,8 @@ internal class Player : FightUnit
 {
     private int Heal = 10;
 
+    private Inven PlayerInven = new Inven(5, 3);
+
     public void TownHeal()
     {
         HP += Heal;
@@ -145,7 +147,7 @@ namespace TextRPG001
                 _Player.StatusRender();
                 Console.WriteLine("마을에서 무슨 일을 하시겠습니까?.");
                 Console.WriteLine("1. 체력을 회복한다.");
-                Console.WriteLine("2. 무기를 강화한다.");
+                Console.WriteLine("2. 상점을 방문한다.");
                 Console.WriteLine("3. 마을을 나간다.");
 
                 switch (Console.ReadKey().Key)

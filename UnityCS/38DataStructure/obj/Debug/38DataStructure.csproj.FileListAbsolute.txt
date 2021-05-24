@@ -1,0 +1,7 @@
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\38DataStructure\bin\Debug\38DataStructure.exe.config
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\38DataStructure\bin\Debug\38DataStructure.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\38DataStructure\bin\Debug\38DataStructure.pdb
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\38DataStructure\obj\Debug\38DataStructure.csprojAssemblyReference.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\38DataStructure\obj\Debug\38DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\38DataStructure\obj\Debug\38DataStructure.exe
+C:\Users\aq123\Documents\학교\BCSD\03\BCSD_03\UnityCS\38DataStructure\obj\Debug\38DataStructure.pdb
