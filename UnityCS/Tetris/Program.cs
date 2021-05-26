@@ -25,13 +25,15 @@ namespace Tetris
 
             while (true)
             {
-                for (int i = 0; i < 300000000; i++)
+                for (int i = 0; i < 30000000; i++)
                 {
                     int a = 0;
                 }
                 Console.Clear();
                 NewSC.Render();
                 NewSC.Clear();
+                NewASC.DestroyCheck();
+                NewASC.Render();
                 NewBlock.Move();
             }
         }

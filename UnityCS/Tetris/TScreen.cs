@@ -32,6 +32,11 @@ internal class TETRISSCREEN
         BlockList[_y][_x] = _Type;
     }
 
+    public bool IsBlock(int _y, int _x, string _Type)
+    {
+        return BlockList[_y][_x] == _Type;
+    }
+
     //정확히 이해 못했음
     public void Clear()
     {

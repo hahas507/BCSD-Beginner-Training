@@ -52,8 +52,7 @@ internal partial class Block
         AccScreen = _accScreen;
         DataInit();
 
-        RandomBlockType();
-        SettingBlock(CurBlockType, CurBlockDir);
+        Reset();
     }
 
     public void RandomBlockType()
@@ -75,10 +74,18 @@ internal partial class Block
             {
                 if ("■" == Arr[y][x])
                 {
-                    AccScreen.SetBlock(Y + y, X + x, Arr[y][x]);
+                    AccScreen.SetBlock(Y + y - 1, X + x, Arr[y][x]);
                 }
             }
         }
+    }
+
+    public void Reset()
+    {
+        RandomBlockType();
+        X = 0;
+        Y = 1;
+        SettingBlock(CurBlockType, CurBlockDir);
     }
 
     public bool DownCheck()
@@ -89,10 +96,11 @@ internal partial class Block
             {
                 if ("■" == Arr[y][x])
                 {
-                    if (AccScreen.Y == Y + y)
+                    if (AccScreen.Y == Y + y || true == AccScreen.IsBlock(Y + y, x + X, "■"))
                     {
                         //AccScreen.SetBlock();
                         SetAccScreen();
+                        Reset();
                         return true;
                     }
                 }

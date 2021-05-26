@@ -19,7 +19,36 @@ internal class AccScreen : TETRISSCREEN
         {
             for (int x = 0; x < BlockList[y].Count; ++x)
             {
-                Parent.SetBlock(x, y + 1, BlockList[y][x]);
+                Parent.SetBlock(y + 1, x, BlockList[y][x]);
+            }
+        }
+    }
+
+    public void DestroyCheck()
+    {
+        for (int y = (BlockList.Count - 1); y >= 0; y--)
+        {
+            bool IsDestroy = true;
+            for (int x = 0; x < BlockList[y].Count; ++x)
+            {
+                if (BlockList[y][x] == "□")
+                {
+                    IsDestroy = false;
+                }
+            }
+
+            if (true == IsDestroy)
+            {
+                List<string> NewLine = new List<string>();
+
+                for (int i = 0; i < X; i++)
+                {
+                    NewLine.Add("□");
+                }
+
+                BlockList.RemoveAt(BlockList.Count - 1);
+                BlockList.Insert(0, NewLine);
+                y = BlockList.Count - 1;
             }
         }
     }
