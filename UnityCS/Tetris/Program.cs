@@ -10,7 +10,7 @@ namespace Tetris
     {
         private static void Main(string[] args)
         {
-            TETRISSCREEN NewSC = new TETRISSCREEN(10, 15, true);
+            TETRISSCREEN NewSC = new TETRISSCREEN(8, 15, true);
 
             AccScreen NewASC = new AccScreen(NewSC);
             Block NewBlock = new Block(NewSC, NewASC);

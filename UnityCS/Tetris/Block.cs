@@ -88,7 +88,7 @@ internal partial class Block
         SettingBlock(CurBlockType, CurBlockDir);
     }
 
-    public bool DownCheck()
+    public bool ContectCheck()
     {
         for (int y = 0; y < 4; y++)
         {
@@ -98,7 +98,6 @@ internal partial class Block
                 {
                     if (AccScreen.Y == Y + y || true == AccScreen.IsBlock(Y + y, x + X, "■"))
                     {
-                        //AccScreen.SetBlock();
                         SetAccScreen();
                         Reset();
                         return true;
@@ -111,7 +110,7 @@ internal partial class Block
 
     public void Down()
     {
-        if (true == DownCheck())
+        if (true == ContectCheck())
         {
             return;
         }
@@ -157,6 +156,10 @@ internal partial class Block
             case ConsoleKey.S:
                 Down();
                 break;
+
+            //case ConsoleKey.Spacebar:
+            //    Y =
+            //    break;
 
             default:
                 break;

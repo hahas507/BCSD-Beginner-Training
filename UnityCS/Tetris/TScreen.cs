@@ -37,7 +37,6 @@ internal class TETRISSCREEN
         return BlockList[_y][_x] == _Type;
     }
 
-    //정확히 이해 못했음
     public void Clear()
     {
         for (int y = 0; y < BlockList.Count; ++y)
@@ -50,7 +49,7 @@ internal class TETRISSCREEN
                     continue;
                 }
 
-                BlockList[y][x] = "□";
+                //BlockList[y][x] = "□";
             }
         }
     }
