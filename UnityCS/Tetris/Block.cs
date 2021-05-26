@@ -88,7 +88,7 @@ internal partial class Block
         SettingBlock(CurBlockType, CurBlockDir);
     }
 
-    public bool ContectCheck()
+    public bool DownCheck()
     {
         for (int y = 0; y < 4; y++)
         {
@@ -110,7 +110,7 @@ internal partial class Block
 
     public void Down()
     {
-        if (true == ContectCheck())
+        if (true == DownCheck())
         {
             return;
         }
@@ -122,6 +122,7 @@ internal partial class Block
     {
         if (false == Console.KeyAvailable)
         {
+            Down();
             return;
         }
 
