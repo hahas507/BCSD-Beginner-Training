@@ -49,6 +49,7 @@ internal partial class Block
         }
 
         Screen = _screen;
+        AccScreen = _accScreen;
         DataInit();
 
         RandomBlockType();
